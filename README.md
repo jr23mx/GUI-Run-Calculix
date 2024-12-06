@@ -28,7 +28,7 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 
 ## 🎥 Video de comparación entre la interfaz GUI-Run-Calculix y el solver PrePoMax
 
-En este video se compara la funcionalidad y eficiencia de nuestra interfaz con el solver PrePoMax. Descubre cómo GUI-Run-Calculix ofrece una experiencia más personalizada y optimizada para procesos de soldadura.
+En este video se compara la funcionalidad y eficiencia de la GUI-Simulacion-Soldadura con el solver PrePoMax. Descubre cómo GUI-Simulacion-Soldadura ofrece una experiencia más personalizada y optimizada para procesos de soldadura.
 
 [![Video de Comparación](https://img.youtube.com/vi/tu_id_del_video/maxresdefault.jpg)](https://www.youtube.com/watch?v=tu_id_del_video)
 
@@ -38,13 +38,13 @@ En este video se compara la funcionalidad y eficiencia de nuestra interfaz con e
    GUI-Run-Calculix está diseñada específicamente para procesos de soldadura, mientras que PrePoMax es un entorno generalista que carece de herramientas específicas para este tipo de simulaciones.
 
 2. **Gestión automatizada de carpetas**:  
-   Nuestra interfaz crea y organiza automáticamente las carpetas necesarias para la simulación (`Input`, `Run`, `Results`), lo que simplifica el flujo de trabajo y minimiza errores.
+   La GUI crea y organiza automáticamente las carpetas necesarias para la simulación (`Input`, `Run`, `Results`), lo que simplifica el flujo de trabajo y minimiza errores.
 
 3. **Conversión directa de formatos**:  
    Integra un conversor que transforma archivos `.frd` a `.vtu` de forma automática, eliminando pasos adicionales para la visualización en **ParaView**.
 
 4. **Análisis del archivo `.inp`**:  
-   La interfaz analiza automáticamente el archivo de entrada para determinar si está en formato ASCII o binario, y brinda al usuario opciones basadas en este análisis.
+   Analiza automáticamente el archivo de entrada para determinar si está en formato ASCII o binario, y brinda al usuario opciones basadas en este análisis.
 
 5. **Interfaz gráfica intuitiva**:  
    Ofrece una GUI más amigable que evita la necesidad de comandos complejos en consola, algo que en PrePoMax puede requerir mayor conocimiento técnico.
