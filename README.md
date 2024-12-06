@@ -10,7 +10,7 @@ La aplicación está dirigida a investigadores, estudiantes y profesionales en i
 
 Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestra desde la descarga, hasta la utilización de la interfaz completa:
 
-[![Video de Comparación](https://img.youtube.com/vi/6xPa1QLKiuc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6xPa1QLKiuc)
+[![Video de Comparación](https://img.youtube.com/vi/GXUdsil8EW0/maxresdefault.jpg)](https://www.youtube.com/watch?v=GXUdsil8EW0)
 
 --
 
@@ -30,7 +30,7 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 
 En este video se compara la funcionalidad y eficiencia de la GUI-Simulacion-Soldadura con el solver PrePoMax. Descubre cómo GUI-Simulacion-Soldadura ofrece una experiencia más personalizada y optimizada para procesos de soldadura.
 
-[![Video de Comparación](https://img.youtube.com/vi/lNBPaVZK6yY/maxresdefault.jpg)](https://www.youtube.com/watch?v=lNBPaVZK6yY)
+[![Video de Comparación](https://img.youtube.com/vi/6xPa1QLKiuc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6xPa1QLKiuc)
 
 ### 🛠️ Beneficios de utilizar GUI-Run-Calculix sobre PrePoMax
 
