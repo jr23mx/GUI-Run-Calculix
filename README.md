@@ -8,11 +8,11 @@ La aplicación está dirigida a investigadores, estudiantes y profesionales en i
 
 ## 🎥 Video de utilización de la interfaz visual de simulación de soldadura con software libre
 
-Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestra desde la descarga, hasta la utilización de la interfaz compl``eta:
+Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestra desde la descarga, hasta la utilización de la interfaz completa:
 
-[![Video de Demostración](https://img.youtube.com/vi/i02AnA2SZ4Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=i02AnA2SZ4Y)
+[![Video de Demostración](https://img.youtube.com/vi/GXUdsil8EW0/maxresdefault.jpg)](https://www.youtube.com/watch?v=GXUdsil8EW0)
 
----
+--
 
 ## ✨ Características de la interfaz
 
